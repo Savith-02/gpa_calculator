@@ -9,10 +9,11 @@ No Dependencies: Purely JavaScript-based with no external dependencies.
 
 ## Setup
 1. Clone the repository:
+```javascript
   git clone https://github.com/your-username/gpa_calculator.git
   cd gpa_calculator
-
-2. Change the grades and corresponding GPVs in gpv.txt as you require.
+```
+3. Change the grades and corresponding GPVs in gpv.txt as you require.
    Use the format provided:
      grade, gpv
 
@@ -22,4 +23,6 @@ No Dependencies: Purely JavaScript-based with no external dependencies.
 
 ## Usage
 Run the GPA Calculator:
+```javascript
   node gpaCalculator.js
+```
