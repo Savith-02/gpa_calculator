@@ -43,6 +43,6 @@ Before using the GPA Calculator, ensure you have the following prerequisites ins
 ## Usage
 
 **Run the GPA Calculator:**
-    ```javascript
+    ```
     node gpaCalculator.js
     ```
