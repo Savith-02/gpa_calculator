@@ -1,0 +1,7 @@
+DSA, 3, A
+C, 3, A+
+DB, 3, B
+DM, 2, B
+CS, 2, A
+Lab, 2, A
+SE, 2, A
